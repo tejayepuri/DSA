@@ -1,0 +1,3 @@
+food 700
+travel 300
+hostel 1000
